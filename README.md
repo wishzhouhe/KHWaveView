@@ -1,5 +1,5 @@
 #KHWaveView
-###[中文版本]()
+###[中文版本](https://github.com/ArronZhangKH/KHWaveView/blob/master/README-CN.md#khwaveview)
 ###A simply but interesting WaveView
 - small volume
 - pretty easy to use
