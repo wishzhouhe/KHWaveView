@@ -1,5 +1,5 @@
 #KHWaveView
-###[English Version]()
+###[English Version](https://github.com/ArronZhangKH/KHWaveView#khwaveview)
 ###一个简单有趣的波动视图
 - 体量小
 - 使用极其简易
